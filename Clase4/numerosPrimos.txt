@@ -1,4 +1,4 @@
-# Programa para verificar si un número es primo
+# Programa para verificar si un número es primo sisisisisisiis
 
 numero = int(input("Ingresa un número: "))
 
